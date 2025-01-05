@@ -3,7 +3,7 @@ package Array.Binary;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] array={2,4,6,7,8,10,12,14,17,19,20};
-        int target= 140;
+        int target= 14;
         int ans = binarySearch(array, target);
         System.out.println(ans);
         
