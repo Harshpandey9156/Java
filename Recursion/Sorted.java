@@ -9,7 +9,7 @@ public class Sorted    {
         System.out.println(sorted(arr,index));
     }
     static ArrayList<Integer> list= new ArrayList<>();
-//    list.add(2);
+
     static  boolean sorted(int[] arr ,int index )
     {
         if(index==arr.length-1){
