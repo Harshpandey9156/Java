@@ -31,12 +31,15 @@ public class BinarySearchSQRT {
         }
 
 
+        root=e;
+
+
         double incr=0.1;
         for(int i=0;i<p;i++){
             while(root*root<=num){
-                root+=incr;
+                root+=incr; 
             }
-            root-=incr;
+            root-=incr;   
             incr/=10;
         }
 

@@ -1,6 +1,6 @@
 package Merging;
 
-import java.util.ArrayList;
+
 import java.util.Arrays;
 
 public class Merge {

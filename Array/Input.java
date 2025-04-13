@@ -12,9 +12,7 @@ public class Input {
             arr[3]=5;
             System.out.println(arr[2]);
 
-
             
-
     }
     
 }
